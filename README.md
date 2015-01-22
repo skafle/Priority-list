@@ -1,6 +1,6 @@
 # Priority-list
 Class schedule
 Maps
-Insturcor's Bio
+Insturctor's Bio
 Current Events
 
